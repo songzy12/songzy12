@@ -29,7 +29,7 @@
   * https://github.com/songzy12/SirsiDynixAssistant
 * Android
   * https://github.com/songzy12/AndroidRotationSensor
-* University
+* Homework
   * Master
     * https://github.com/songzy12/XiaoMu
     * https://github.com/songzy12/IIIS_PreliminaryExam
