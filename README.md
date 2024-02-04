@@ -25,6 +25,7 @@
   * https://github.com/songzy12/Lux-AI
   * https://github.com/songzy12/RAIC
 * Web Crawler
+  * https://github.com/songzy12/bilibili-dynamic-crawler
 * Chrome Extension
   * https://github.com/songzy12/SirsiDynixAssistant
 * Android
