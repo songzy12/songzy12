@@ -16,7 +16,6 @@
   * https://github.com/songzy12/SICP
   * https://github.com/songzy12/Haskell-99
 * Machine Learning
-  * https://github.com/songzy12/avazu-ctr-prediction
   * https://github.com/songzy12/kkbox-music-recommendation-challenge
   * https://github.com/songzy12/text-normalization-challenge
   * https://github.com/songzy12/microsoft-malware-prediction
@@ -41,6 +40,7 @@
   * Bachelor
     * https://github.com/songzy12/nachos
     * https://github.com/songzy12/6.824-golabs-2015
+    * https://github.com/songzy12/avazu-ctr-prediction
     * https://github.com/songzy12/ray_tracing
     * https://github.com/songzy12/mesh_simplification
     * https://github.com/songzy12/decaf
