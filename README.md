@@ -29,9 +29,9 @@
   * https://github.com/songzy12/SirsiDynixAssistant
 * Android
   * https://github.com/songzy12/AndroidRotationSensor
-* Homework
+* Homework Project
+  * https://github.com/songzy12/XiaoMu
   * Master
-    * https://github.com/songzy12/XiaoMu
     * https://github.com/songzy12/IIIS_PreliminaryExam
     * https://github.com/songzy12/largest_empty_convex_polygon
     * https://github.com/songzy12/citation_count_prediction
