@@ -14,6 +14,7 @@
   * https://github.com/songzy12/kaggle-santa-competitions  
 * Programming Language
   * https://github.com/songzy12/SICP
+  * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
 * Machine Learning
   * https://github.com/songzy12/kkbox-music-recommendation-challenge
@@ -25,6 +26,8 @@
   * https://github.com/songzy12/RAIC
 * Web Crawler
   * https://github.com/songzy12/bilibili-dynamic-crawler
+* Security
+  * https://github.com/songzy12/hack_this
 * Chrome Extension
   * https://github.com/songzy12/SirsiDynixAssistant
 * Android
