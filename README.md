@@ -13,7 +13,6 @@
   * https://github.com/songzy12/ProjectEuler
   * https://github.com/songzy12/kaggle-santa-competitions  
 * Programming Language
-  * https://github.com/songzy12/SICP
   * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
 * Machine Learning
@@ -50,6 +49,7 @@
     * https://github.com/songzy12/Y86
     * https://github.com/songzy12/pet
     * https://github.com/songzy12/csapp-3e-labs
+    * https://github.com/songzy12/SICP
 * Misc
   * https://github.com/songzy12/ToolKit
   * https://github.com/songzy12/MaomaoSenlin
