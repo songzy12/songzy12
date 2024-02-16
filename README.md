@@ -50,5 +50,4 @@
     * https://github.com/songzy12/pet
     * https://github.com/songzy12/csapp-3e-labs
 * Misc
-  * https://github.com/songzy12/ToolKit
   * https://github.com/songzy12/MaomaoSenlin
