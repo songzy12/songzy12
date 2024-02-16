@@ -49,7 +49,6 @@
     * https://github.com/songzy12/Y86
     * https://github.com/songzy12/pet
     * https://github.com/songzy12/csapp-3e-labs
-    * https://github.com/songzy12/SICP
 * Misc
   * https://github.com/songzy12/ToolKit
   * https://github.com/songzy12/MaomaoSenlin
