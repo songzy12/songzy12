@@ -15,6 +15,7 @@
 * Programming Language
   * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
+  * https://github.com/songzy12/SICP
 * Machine Learning
   * https://github.com/songzy12/kkbox-music-recommendation-challenge
   * https://github.com/songzy12/text-normalization-challenge
