@@ -17,6 +17,7 @@
   * https://github.com/songzy12/SICP
 * Web Crawler
   * https://github.com/songzy12/bilibili-dynamic-crawler
+  * https://github.com/songzy12/weibo_crawler
 * Machine Learning Competitions
   * https://github.com/songzy12/kkbox-music-recommendation-challenge
   * https://github.com/songzy12/text-normalization-challenge
