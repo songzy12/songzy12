@@ -3,10 +3,10 @@
 
 ## Index
 * Algorithm & Data Structure
-  * https://github.com/songzy12/LeetCode
   * https://github.com/songzy12/CodeForces
-  * https://github.com/songzy12/HackerRank
   * https://github.com/songzy12/TopCoder-SRM
+  * https://github.com/songzy12/LeetCode
+  * https://github.com/songzy12/HackerRank
   * https://github.com/songzy12/CodeJam
 * Math / Optimization
   * https://github.com/songzy12/ProjectEuler
@@ -19,10 +19,10 @@
   * https://github.com/songzy12/bilibili-dynamic-crawler
   * https://github.com/songzy12/weibo_crawler
 * Machine Learning Competitions
-  * https://github.com/songzy12/kkbox-music-recommendation-challenge
   * https://github.com/songzy12/text-normalization-challenge
   * https://github.com/songzy12/microsoft-malware-prediction
   * https://github.com/songzy12/spooky-author-identification
+  * https://github.com/songzy12/kkbox-music-recommendation-challenge
 * Game AI
   * https://github.com/songzy12/Lux-AI
   * https://github.com/songzy12/RAIC
