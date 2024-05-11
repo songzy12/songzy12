@@ -22,6 +22,7 @@
   * https://github.com/songzy12/text-normalization-challenge
   * https://github.com/songzy12/microsoft-malware-prediction
   * https://github.com/songzy12/spooky-author-identification
+  * https://github.com/songzy12/jigsaw-toxic-comment-classification-challenge
   * https://github.com/songzy12/kkbox-music-recommendation-challenge
 * Game AI
   * https://github.com/songzy12/Lux-AI
