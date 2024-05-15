@@ -16,7 +16,7 @@
   * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
 * Web Crawler
-  * https://github.com/songzy12/bilibili-dynamic-crawler
+  * https://github.com/songzy12/bilibili-crawler
   * https://github.com/songzy12/weibo_crawler
 * Machine Learning Competitions
   * (2017) https://github.com/songzy12/text-normalization-challenge
