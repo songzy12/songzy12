@@ -7,13 +7,13 @@
   * https://github.com/songzy12/HackerRank
   * https://github.com/songzy12/TopCoder-SRM
   * https://github.com/songzy12/CodeForces
+* Math & Optimization
+  * https://github.com/songzy12/ProjectEuler
+  * https://github.com/songzy12/kaggle-santa-competitions
 * Programming Language
   * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
   * https://github.com/songzy12/SICP
-* Math / Optimization
-  * https://github.com/songzy12/ProjectEuler
-  * https://github.com/songzy12/kaggle-santa-competitions
 * Security
   * https://github.com/songzy12/defendtheweb
 * Web Crawler
@@ -40,8 +40,8 @@
   * https://github.com/songzy12/SirsiDynixAssistant
 * Homework Project
   * https://github.com/songzy12/XiaoMu
+  * https://github.com/songzy12/IIIS_PreliminaryExam
   * Master
-    * https://github.com/songzy12/IIIS_PreliminaryExam
     * https://github.com/songzy12/largest_empty_convex_polygon
     * https://github.com/songzy12/citation_count_prediction
     * https://github.com/songzy12/6.824-golabs-2017
