@@ -8,17 +8,19 @@
   * https://github.com/songzy12/TopCoder-SRM
   * https://github.com/songzy12/CodeForces
 * Math & Optimization
+  * https://github.com/songzy12/yau-contest
+  * https://github.com/songzy12/alibaba-mathematics-competition
   * https://github.com/songzy12/ProjectEuler
   * https://github.com/songzy12/kaggle-santa-competitions
 * Programming Language
+  * https://github.com/songzy12/SICP
   * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
-  * https://github.com/songzy12/SICP
 * Security
   * https://github.com/songzy12/defendtheweb
 * Web Crawler
-  * https://github.com/songzy12/bilibili-crawler
   * https://github.com/songzy12/weibo_crawler
+  * https://github.com/songzy12/bilibili-crawler
 * Game AI
   * https://github.com/songzy12/RAIC
   * https://github.com/songzy12/Lux-AI
@@ -28,7 +30,7 @@
   * ULMFiT (2018): https://github.com/songzy12/ULMFiT
   * LongFormer (2020): https://github.com/songzy12/LongFormer
   * DeBERTa (2020): https://github.com/songzy12/DeBERTa
-* Machine Learning Competitions
+* Machine Learning
   * (2017) https://github.com/songzy12/text-normalization-challenge
   * (2017) https://github.com/songzy12/spooky-author-identification
   * (2017) https://github.com/songzy12/kkbox-music-recommendation-challenge
@@ -36,9 +38,9 @@
   * (2019) https://github.com/songzy12/microsoft-malware-prediction
 * Android
   * https://github.com/songzy12/AndroidRotationSensor
-* Chrome Extension
+* Chrome
   * https://github.com/songzy12/SirsiDynixAssistant
-* Homework Project
+* Homework
   * https://github.com/songzy12/XiaoMu
   * https://github.com/songzy12/IIIS_PreliminaryExam
   * Master
