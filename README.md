@@ -17,7 +17,9 @@
   * https://github.com/songzy12/python_challenge
   * https://github.com/songzy12/Haskell-99
 * Security
-  * https://github.com/songzy12/defendtheweb
+  * https://github.com/songzy12/CVE
+  * https://github.com/songzy12/AVD
+  * https://github.com/songzy12/defendtheweb  
 * Web Crawler
   * https://github.com/songzy12/weibo_crawler
   * https://github.com/songzy12/bilibili-crawler
