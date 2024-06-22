@@ -3,7 +3,6 @@
 
 ## Index
 * Algorithm & Data Structure
-  * https://github.com/songzy12/LeetCode
   * https://github.com/songzy12/HackerRank
   * https://github.com/songzy12/TopCoder-SRM
   * https://github.com/songzy12/CodeForces
